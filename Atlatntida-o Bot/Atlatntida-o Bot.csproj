@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CA921C9E-29A8-4592-96DF-12B0C40D0DF2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Atlatntida_o_Bot</RootNamespace>
+    <AssemblyName>Atlatntida-o Bot</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>0</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Awesomium.Core, Version=1.7.4.2, Culture=neutral, PublicKeyToken=e1a0d7c8071a5214, processorArchitecture=x86">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Awesomium.Windows.Controls, Version=1.7.4.2, Culture=neutral, PublicKeyToken=7a34e179b8b61c39, processorArchitecture=x86">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Awesomium.Windows.Forms, Version=1.7.4.2, Culture=neutral, PublicKeyToken=9bd24830fbe304a0, processorArchitecture=x86">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking, Version=2.9.0.0, Culture=neutral, PublicKeyToken=5cded1a1a0a7b481, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Libs\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+    <Reference Include="xNet">
+      <HintPath>..\Libs\xNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BotSuite\ApplicationTunnel.cs" />
+    <Compile Include="BotSuite\Browser.cs" />
+    <Compile Include="BotSuite\CommonRegex.cs" />
+    <Compile Include="BotSuite\ControlArtist.cs" />
+    <Compile Include="BotSuite\DataTypes\Hex32.cs" />
+    <Compile Include="BotSuite\Encryption.cs" />
+    <Compile Include="BotSuite\FiniteStateEngine\Pattern\Singleton.cs" />
+    <Compile Include="BotSuite\FiniteStateEngine\StateEngine\Entites\BaseEntity.cs" />
+    <Compile Include="BotSuite\FiniteStateEngine\StateEngine\Entites\EntityManager.cs" />
+    <Compile Include="BotSuite\FiniteStateEngine\StateEngine\Messaging\MessageDispatcher.cs" />
+    <Compile Include="BotSuite\FiniteStateEngine\StateEngine\Messaging\Telegram.cs" />
+    <Compile Include="BotSuite\FiniteStateEngine\StateEngine\State.cs" />
+    <Compile Include="BotSuite\FiniteStateEngine\StateEngine\StateMachine.cs" />
+    <Compile Include="BotSuite\ImageLibrary\CommonFunctions.cs" />
+    <Compile Include="BotSuite\ImageLibrary\Filter.cs" />
+    <Compile Include="BotSuite\ImageLibrary\ImageData.cs" />
+    <Compile Include="BotSuite\ImageLibrary\Template.cs" />
+    <Compile Include="BotSuite\Imaging\CommonFunctions.cs" />
+    <Compile Include="BotSuite\Imaging\ConvolutionMatrix.cs" />
+    <Compile Include="BotSuite\Imaging\DrawingHelper.cs" />
+    <Compile Include="BotSuite\Imaging\Filter.cs" />
+    <Compile Include="BotSuite\Imaging\ImageData.cs" />
+    <Compile Include="BotSuite\Imaging\Template.cs" />
+    <Compile Include="BotSuite\IniParser.cs" />
+    <Compile Include="BotSuite\Input\HotKey.cs" />
+    <Compile Include="BotSuite\Input\Keyboard.cs" />
+    <Compile Include="BotSuite\Input\Mouse.cs" />
+    <Compile Include="BotSuite\Keyboard.cs" />
+    <Compile Include="BotSuite\Logging\LogEventArgs.cs" />
+    <Compile Include="BotSuite\Logging\Logger.cs" />
+    <Compile Include="BotSuite\MachineLearning\NeuralNetwork\ActivationFunctions\BipolarSigmoidActivationFunction.cs" />
+    <Compile Include="BotSuite\MachineLearning\NeuralNetwork\ActivationFunctions\GaussianActivationFunction.cs" />
+    <Compile Include="BotSuite\MachineLearning\NeuralNetwork\ActivationFunctions\HeavisideActivationFunction.cs" />
+    <Compile Include="BotSuite\MachineLearning\NeuralNetwork\ActivationFunctions\iActivationFunction.cs" />
+    <Compile Include="BotSuite\MachineLearning\NeuralNetwork\ActivationFunctions\LinearActivationFunction.cs" />
+    <Compile Include="BotSuite\MachineLearning\NeuralNetwork\ActivationFunctions\SigmoidActivationFunction.cs" />
+    <Compile Include="BotSuite\MachineLearning\NeuralNetwork\ActivationFunctions\TanhActivationFunction.cs" />
+    <Compile Include="BotSuite\MachineLearning\NeuralNetwork\Layer.cs" />
+    <Compile Include="BotSuite\MachineLearning\NeuralNetwork\LearningAlgorithms\BackPropagationLearningAlgorithm.cs" />
+    <Compile Include="BotSuite\MachineLearning\NeuralNetwork\LearningAlgorithms\LearningAlgorithm.cs" />
+    <Compile Include="BotSuite\MachineLearning\NeuralNetwork\LearningMonitors\iLearningMonitor.cs" />
+    <Compile Include="BotSuite\MachineLearning\NeuralNetwork\NeuralNetwork.cs" />
+    <Compile Include="BotSuite\MachineLearning\NeuralNetwork\Neuron.cs" />
+    <Compile Include="BotSuite\Mouse.cs" />
+    <Compile Include="BotSuite\NativeMethods.cs" />
+    <Compile Include="BotSuite\Net\Browser.cs" />
+    <Compile Include="BotSuite\Net\HttpClient.cs" />
+    <Compile Include="BotSuite\Net\HttpConstants.cs" />
+    <Compile Include="BotSuite\Net\HttpHeader.cs" />
+    <Compile Include="BotSuite\Net\HttpHeaderCollection.cs" />
+    <Compile Include="BotSuite\Net\HttpPostData.cs" />
+    <Compile Include="BotSuite\Net\HttpPostDataCollection.cs" />
+    <Compile Include="BotSuite\Net\HttpProxy.cs" />
+    <Compile Include="BotSuite\Net\HttpRequestException.cs" />
+    <Compile Include="BotSuite\Net\UserAgent.cs" />
+    <Compile Include="BotSuite\Recognition\Character\MagicMatchStick.cs" />
+    <Compile Include="BotSuite\Recognition\Character\MagicMatchSticks.cs" />
+    <Compile Include="BotSuite\Recognition\Character\OCR.cs" />
+    <Compile Include="BotSuite\ScreenShot.cs" />
+    <Compile Include="BotSuite\Utility.cs" />
+    <Compile Include="BotSuite\Win32\Constants.cs" />
+    <Compile Include="BotSuite\Win32\Delegates.cs" />
+    <Compile Include="BotSuite\Win32\Methods\Kernel32.cs" />
+    <Compile Include="BotSuite\Win32\Methods\User32.cs" />
+    <Compile Include="BotSuite\Win32\Structs\KeyboardHookStruct.cs" />
+    <Compile Include="BotSuite\Win32\Structs\Rect.cs" />
+    <Compile Include="BotSuite\Window.cs" />
+    <Compile Include="Forms\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AddLocation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddLocation.Designer.cs">
+      <DependentUpon>AddLocation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AddMob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddMob.Designer.cs">
+      <DependentUpon>AddMob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Debug\ShowHtml.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Debug\ShowHtml.Designer.cs">
+      <DependentUpon>ShowHtml.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Log.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Log.Designer.cs">
+      <DependentUpon>Log.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RedactLocation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RedactLocation.Designer.cs">
+      <DependentUpon>RedactLocation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RedactMob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RedactMob.Designer.cs">
+      <DependentUpon>RedactMob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Registration.designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SettingsForm.Designer.cs">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\WebDocument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\WebDocument.Designer.cs">
+      <DependentUpon>WebDocument.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Libs\BotBase.cs" />
+    <Compile Include="Libs\BotFunc.cs" />
+    <Compile Include="Libs\BotFunctions\Auto.cs" />
+    <Compile Include="Libs\DES.cs" />
+    <Compile Include="Libs\Hard.cs" />
+    <Compile Include="Libs\Requests.cs" />
+    <Compile Include="Libs\Other\WINAP_INI.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TreeViewSerializer.cs" />
+    <EmbeddedResource Include="Forms\About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AddLocation.resx">
+      <DependentUpon>AddLocation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AddMob.resx">
+      <DependentUpon>AddMob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Debug\ShowHtml.resx">
+      <DependentUpon>ShowHtml.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Log.resx">
+      <DependentUpon>Log.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RedactLocation.resx">
+      <DependentUpon>RedactLocation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RedactMob.resx">
+      <DependentUpon>RedactMob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SettingsForm.resx">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\WebDocument.resx">
+      <DependentUpon>WebDocument.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="BotSuite\Settings.StyleCop" />
+    <None Include="Mobs.ini">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Settings.ini">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\udar1.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\exit.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\fhp.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\minus.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Images\nol.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\udar2.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Images\udar3.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+    <None Include="locations.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Images\sposobnost_unactive.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Images\sposobnost_check.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Images\sposobnost_off.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\sposobnost.png" />
+    <None Include="Images\ok_btn1.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Images\ok_btn2.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Images\exit2.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Images\udar11.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Images\udar22.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Images\udar33.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Images\udar.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\atlantida.png" />
+    <None Include="Images\eleksiry.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\inventory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>Клиентский профиль .NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Установщик Windows 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

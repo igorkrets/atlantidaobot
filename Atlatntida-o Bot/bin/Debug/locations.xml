@@ -1,0 +1,53 @@
+<ROOT>
+  <TreeViewNode value="Опушка леса">
+    <TreeViewNode value="Рыбацкая деревня" />
+    <TreeViewNode value="Ристалище крови" />
+    <TreeViewNode value="Лес" />
+  </TreeViewNode>
+  <TreeViewNode value="Рыбацкая деревня">
+    <TreeViewNode value="Березовая роща" />
+    <TreeViewNode value="Опушка леса" />
+  </TreeViewNode>
+  <TreeViewNode value="Березовая роща">
+    <TreeViewNode value="Пустошь" />
+    <TreeViewNode value="Рыбацкая деревня" />
+  </TreeViewNode>
+  <TreeViewNode value="Пустошь">
+    <TreeViewNode value="Шахты" />
+    <TreeViewNode value="Березовая роща" />
+  </TreeViewNode>
+  <TreeViewNode value="Лес">
+    <TreeViewNode value="Опушка леса" />
+    <TreeViewNode value="Поляна нимф" />
+  </TreeViewNode>
+  <TreeViewNode value="Поляна нимф">
+    <TreeViewNode value="Лес" />
+    <TreeViewNode value="Гномьи шахты" />
+  </TreeViewNode>
+  <TreeViewNode value="Гномьи шахты">
+    <TreeViewNode value="Поляна нимф" />
+    <TreeViewNode value="Плато отшельника" />
+  </TreeViewNode>
+  <TreeViewNode value="Ристалище крови">
+    <TreeViewNode value="Центральная площадь" />
+    <TreeViewNode value="Опушка леса" />
+  </TreeViewNode>
+  <TreeViewNode value="Центральная площадь">
+    <TreeViewNode value="Торговая улица" />
+    <TreeViewNode value="Порт" />
+    <TreeViewNode value="Ристалище крови" />
+  </TreeViewNode>
+  <TreeViewNode value="Порт">
+    <TreeViewNode value="Пиратская стоянка" />
+    <TreeViewNode value="Центральная площадь" />
+    <TreeViewNode value="Форпост воды" />
+    <TreeViewNode value="Возврат на остров новичков|Западный берег" />
+  </TreeViewNode>
+  <TreeViewNode value="Западный берег">
+    <TreeViewNode value="Телепорт к порту|Порт" />
+    <TreeViewNode value="Остров новичков" />
+  </TreeViewNode>
+  <TreeViewNode value="Остров новичков">
+    <TreeViewNode value="К западному берегу острова новичков|Западный берег" />
+  </TreeViewNode>
+</ROOT>

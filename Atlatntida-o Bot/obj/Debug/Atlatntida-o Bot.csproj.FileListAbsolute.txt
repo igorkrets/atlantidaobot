@@ -1,0 +1,209 @@
+c:\users\igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida-o Bot.csprojResolveAssemblyReference.cache
+c:\users\igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.MainForm.resources
+c:\users\igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Properties.Resources.resources
+c:\users\igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida-o Bot.csproj.GenerateResource.Cache
+c:\users\igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Atlatntida-o Bot.exe
+c:\users\igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Atlatntida-o Bot.pdb
+c:\users\igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida-o Bot.exe
+c:\users\igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida-o Bot.pdb
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.WebDocument.resources
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.Log.resources
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.Debug.ShowHtml.resources
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\exit.bmp
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\fhp.bmp
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\minus.bmp
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\nol.bmp
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.SettingsForm.resources
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Mobs.ini
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar1.bmp
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar2.bmp
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar3.bmp
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.Registration.resources
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Core.dll
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Windows.Controls.dll
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Windows.Forms.dll
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\System.Management.dll
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Core.xml
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Windows.Controls.xml
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Windows.Forms.xml
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\awesomium.dll
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\icudt.dll
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\avcodec-53.dll
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\avformat-53.dll
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\avutil-51.dll
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\libEGL.dll
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\libGLESv2.dll
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\awesomium_process
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\inspector.pak
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\xinput9_1_0.dll
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\eleksiry.bmp
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Settings.ini
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\xNet.dll
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.About.resources
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar.bmp
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\exit2.bmp
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar11.bmp
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar22.bmp
+C:\Users\Igor\documents\visual studio 2012\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar33.bmp
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida-o Bot.exe
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida-o Bot.pdb
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Mobs.ini
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Settings.ini
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar1.bmp
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\exit.bmp
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\fhp.bmp
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\minus.bmp
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\nol.bmp
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar2.bmp
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar3.bmp
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\exit2.bmp
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar11.bmp
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar22.bmp
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar33.bmp
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar.bmp
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\eleksiry.bmp
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Atlatntida-o Bot.exe
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Atlatntida-o Bot.pdb
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Core.dll
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Windows.Controls.dll
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Windows.Forms.dll
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\System.Management.dll
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\xNet.dll
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Core.xml
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Windows.Controls.xml
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Windows.Forms.xml
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\awesomium.dll
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\icudt.dll
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\avcodec-53.dll
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\avformat-53.dll
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\avutil-51.dll
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\libEGL.dll
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\libGLESv2.dll
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\awesomium_process
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\inspector.pak
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\xinput9_1_0.dll
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida-o Bot.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.About.resources
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.Debug.ShowHtml.resources
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.Log.resources
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.Registration.resources
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.SettingsForm.resources
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.WebDocument.resources
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.MainForm.resources
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Properties.Resources.resources
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida-o Bot.csproj.GenerateResource.Cache
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida-o Bot.exe
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida-o Bot.pdb
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Mobs.ini
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Settings.ini
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar1.bmp
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\exit.bmp
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\fhp.bmp
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\minus.bmp
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\nol.bmp
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar2.bmp
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar3.bmp
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\exit2.bmp
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar11.bmp
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar22.bmp
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar33.bmp
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar.bmp
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\eleksiry.bmp
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Atlatntida-o Bot.exe
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Atlatntida-o Bot.pdb
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\System.Management.dll
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\xNet.dll
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Core.xml
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Windows.Controls.xml
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Windows.Forms.xml
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\awesomium.dll
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\icudt.dll
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\avcodec-53.dll
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\avformat-53.dll
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\avutil-51.dll
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\libEGL.dll
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\libGLESv2.dll
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\awesomium_process
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\inspector.pak
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\xinput9_1_0.dll
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida-o Bot.csprojResolveAssemblyReference.cache
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.About.resources
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.Debug.ShowHtml.resources
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.Log.resources
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.Registration.resources
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.SettingsForm.resources
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.WebDocument.resources
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.MainForm.resources
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Properties.Resources.resources
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida-o Bot.csproj.GenerateResource.Cache
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.RedactMob.resources
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.AddMob.resources
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.AddLocation.resources
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.RedactLocation.resources
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\ok_btn1.bmp
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\ok_btn2.bmp
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\sposobnost_check.bmp
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\sposobnost_off.bmp
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\sposobnost_unactive.bmp
+C:\Users\Test\Desktop\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\locations.xml
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida-o Bot.exe
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida-o Bot.pdb
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Mobs.ini
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Settings.ini
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar1.bmp
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\exit.bmp
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\fhp.bmp
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\minus.bmp
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\nol.bmp
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar2.bmp
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar3.bmp
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\locations.xml
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\sposobnost_unactive.bmp
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\sposobnost_check.bmp
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\sposobnost_off.bmp
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\ok_btn1.bmp
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\ok_btn2.bmp
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\exit2.bmp
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar11.bmp
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar22.bmp
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar33.bmp
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\udar.bmp
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Images\eleksiry.bmp
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Atlatntida-o Bot.exe
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Atlatntida-o Bot.pdb
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Core.dll
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Windows.Controls.dll
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Windows.Forms.dll
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\System.Management.dll
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\xNet.dll
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Core.xml
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Windows.Controls.xml
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\Awesomium.Windows.Forms.xml
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\awesomium.dll
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\icudt.dll
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\avcodec-53.dll
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\avformat-53.dll
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\avutil-51.dll
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\libEGL.dll
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\libGLESv2.dll
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\awesomium_process
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\inspector.pak
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\bin\Debug\xinput9_1_0.dll
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida-o Bot.csprojResolveAssemblyReference.cache
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.About.resources
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.AddLocation.resources
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.AddMob.resources
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.Debug.ShowHtml.resources
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.Log.resources
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.RedactLocation.resources
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.RedactMob.resources
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.Registration.resources
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.SettingsForm.resources
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Forms.WebDocument.resources
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.MainForm.resources
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida_o_Bot.Properties.Resources.resources
+D:\SYSTEMBOT\Atlatntida-o Bot\Atlatntida-o Bot\obj\Debug\Atlatntida-o Bot.csproj.GenerateResource.Cache
